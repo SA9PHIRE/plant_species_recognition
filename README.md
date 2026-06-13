@@ -73,7 +73,7 @@ cd plant-recognizer
 
 2. Создать виртуальное окружение
 python -m venv venv
-source venv/bin/activate  # Linux/Mac\n
+source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 
 3. Установить зависимости
