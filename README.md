@@ -67,14 +67,13 @@ plant_species_recognition/
 
 ### Пошаговая инструкция
 
-1. **Клонировать репозиторий**
-
+1. Клонировать репозиторий
 git clone https://github.com/yourname/plant-recognizer.git
 cd plant-recognizer
 
 2. Создать виртуальное окружение
 python -m venv venv
-source venv/bin/activate  # Linux/Mac
+source venv/bin/activate  # Linux/Mac\n
 venv\Scripts\activate     # Windows
 
 3. Установить зависимости
