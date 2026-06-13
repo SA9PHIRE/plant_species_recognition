@@ -52,3 +52,6 @@ python src/predict.py --image моё_фото.jpg
 - NumPy, Pandas (данные)
 
 - Matplotlib (графики)
+
+### 📄 Лицензия
+MIT
