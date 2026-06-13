@@ -81,7 +81,7 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 
 4. Скачать датасет (ссылка в data/README.md)
-# Автоматическая загрузка (если настроено)
+(Автоматическая загрузка (если настроено))
 python scripts/download_dataset.py
 
 5. Запустить обучение
